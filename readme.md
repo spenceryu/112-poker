@@ -1,5 +1,4 @@
-# Poker Term Project
-# Spencer Yu
+# 15-112 Poker Term Project
 
 # Project description:
 This project is an implementation of poker in python 3 with both
