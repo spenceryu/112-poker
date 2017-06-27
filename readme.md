@@ -6,3 +6,6 @@ single-player mode with AI, as well as multiplayer mode with sockets. The only a
 
 # Running this program:
 To run this program, run launcher.py, which gives you access to a single-player mode and a multiplayer mode. If you are running multiplayer mode, one instance of the launcher is required for the server as well as each client, for 5 total instances of python running (4 clients and one server).
+
+# Project video
+A demonstration of this project can be found at: https://www.youtube.com/watch?v=IgO13_JUntU
